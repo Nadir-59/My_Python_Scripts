@@ -1,3 +1,3 @@
 # Python Scripts
 # Scrapping 
-get source code of a website 
+get source code from a website 
